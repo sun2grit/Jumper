@@ -98,3 +98,5 @@ class QueueTest extends Controller
 		return view('welcome');
 	}
 }
+
+Copyright 视方科技（武汉）有限公司
